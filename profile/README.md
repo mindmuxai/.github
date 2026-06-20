@@ -1,10 +1,10 @@
-# MindMux
+# MindMux.ai
 
-> A local-first project brain for builders and agents.
+> A local-first Project Brain Knowledge Editor for builders and agents.
 
 ## What we do
 
-MindMux is a local-first AI workbench that turns project conversations into structured knowledge.
+MindMux turns project conversations into structured, agent-ready knowledge.Discuss, distill, and dispatch — your project's context stays intact across sessions, models, and agents.
 
 **Chat → Brain → Task**
 
